@@ -17,11 +17,11 @@
 
     "differURL": "https://differ.vanillaos.org",
 
-    "partLabelVar": "vos-var",
-    "partLabelA": "vos-a",
-    "partLabelB": "vos-b",
-    "partLabelBoot": "vos-boot",
-    "partLabelEfi": "vos-efi",
+    "partLabelVar": "user-data",
+    "partLabelA": "system-a",
+    "partLabelB": "system-b",
+    "partLabelBoot": "system-boot",
+    "partLabelEfi": "system-efi",
 
     "libPathStates": "/var/lib/abroot/states"
 }
